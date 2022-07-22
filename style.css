@@ -1,0 +1,14 @@
+.container {
+    min-width: 380px;
+}
+.cal-body {
+    height: 600px;
+    width: 350px;
+}
+.input-num {
+    font-size: 4rem;
+}
+.circle {
+    height: 60px;
+    /* width: 70px; */
+}
